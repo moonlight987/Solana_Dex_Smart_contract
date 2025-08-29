@@ -7,7 +7,7 @@ This Solana DEX Smart Contract is an advanced decentralized exchange (DEX) proto
 ## 📞 Contact
 
 Interested in exploring a next-generation DEX experience — distinct from platforms like pump.fun? 
-Contract here: [Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xTan1319)
+Contract here: [Telegram](https://t.me/smartec414) 
 
 ## 🚀 Key Features
 
